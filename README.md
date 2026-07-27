@@ -1,10 +1,7 @@
+25.01.53.0008 – RISYA HENY PUTRI SUKMAWAR 
+25.01.53.0012 – NUR JIHAN SALSABILA
+
 # FitLife AI — Health Dashboard
-
-Website kesehatan personal berbasis AI yang membantu pengguna memantau nutrisi, olahraga, hidrasi, dan berat badan secara cerdas menggunakan Google Gemini AI.
-
----
-
-## Tentang Aplikasi
 
 FitLife AI adalah platform kesehatan digital yang mengintegrasikan kecerdasan buatan (AI) ke dalam rutinitas kesehatan sehari-hari. Dirancang untuk siapa saja yang ingin menjalani gaya hidup sehat dengan panduan yang personal, akurat, dan mudah diakses.
 
@@ -162,12 +159,3 @@ http://localhost:3001
 ```
 
 ---
-
-## Scripts
-
-```bash
-npm run dev      # Jalankan server development (Express + Vite)
-npm run build    # Build untuk production
-npm run start    # Jalankan hasil build production
-npm run lint     # TypeScript type checking
-```
