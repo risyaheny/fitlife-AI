@@ -1,6 +1,47 @@
-# FitLife AI — Health 
+# FitLife AI — Health Dashboard
 
- Website kesehatan personal berbasis AI yang membantu pengguna memantau nutrisi, olahraga, hidrasi, dan berat badan secara cerdas menggunakan Google Gemini AI.
+Website kesehatan personal berbasis AI yang membantu pengguna memantau nutrisi, olahraga, hidrasi, dan berat badan secara cerdas menggunakan Google Gemini AI.
+
+---
+
+## Tentang Aplikasi
+
+FitLife AI adalah platform kesehatan digital yang mengintegrasikan kecerdasan buatan (AI) ke dalam rutinitas kesehatan sehari-hari. Dirancang untuk siapa saja yang ingin menjalani gaya hidup sehat dengan panduan yang personal, akurat, dan mudah diakses.
+
+---
+
+## Latar Belakang
+
+Gaya hidup tidak sehat merupakan salah satu tantangan terbesar masyarakat modern. Kesibukan sehari-hari membuat banyak orang kesulitan memantau pola makan, rutinitas olahraga, dan kondisi tubuh mereka secara konsisten. Di sisi lain, layanan konsultasi kesehatan dan nutrisi profesional seringkali tidak terjangkau dari segi biaya maupun akses.
+
+Berdasarkan data WHO, lebih dari 1 miliar orang di dunia mengalami obesitas, dan sebagian besar kasus penyakit kronis seperti diabetes tipe 2 dan hipertensi berkaitan langsung dengan pola makan dan aktivitas fisik yang buruk. Di Indonesia sendiri, prevalensi obesitas terus meningkat setiap tahunnya.
+
+Kemajuan teknologi kecerdasan buatan, khususnya model bahasa besar (Large Language Model) seperti Google Gemini, membuka peluang untuk menghadirkan layanan konsultasi kesehatan yang personal, cerdas, dan terjangkau langsung di genggaman tangan pengguna.
+
+---
+
+## Tujuan
+
+1. Membantu pengguna memantau kondisi kesehatan secara mandiri melalui data biometrik seperti BMI, berat badan, dan kalori harian.
+2. Memberikan rekomendasi nutrisi dan olahraga yang dipersonalisasi berdasarkan profil kesehatan masing-masing pengguna.
+3. Meningkatkan kesadaran masyarakat terhadap pentingnya pola makan bergizi dan aktivitas fisik yang teratur.
+4. Menyediakan akses konsultasi kesehatan berbasis AI yang mudah digunakan, gratis, dan dapat diakses kapan saja.
+5. Membangun kebiasaan sehat jangka panjang melalui fitur streak harian dan jadwal olahraga mingguan yang terstruktur.
+
+---
+
+## Solusi yang Ditawarkan
+
+FitLife AI menjawab permasalahan di atas melalui pendekatan teknologi yang terintegrasi:
+
+| Masalah | Solusi FitLife AI |
+|---------|-------------------|
+| Sulit memantau asupan kalori harian | Log makanan manual + Pindai makanan via AI (foto/teks) dengan analisis nutrisi otomatis |
+| Tidak tahu olahraga yang sesuai kondisi tubuh | Jadwal latihan mingguan preset + rekomendasi olahraga personal dari Coach AI |
+| Konsultasi gizi mahal dan tidak mudah diakses | Chat interaktif dengan Coach AI berbasis Gemini yang tersedia 24/7 |
+| Tidak konsisten dalam menjaga gaya hidup sehat | Sistem streak harian 🔥 dan notifikasi untuk menjaga motivasi pengguna |
+| Tidak memahami kondisi tubuh sendiri | Analisis biometrik mendalam (BMI, kalori, hidrasi) dengan penjelasan yang mudah dipahami |
+| Tidak tahu makanan mana yang cocok untuk dietnya | Fitur Pindai Makanan AI yang menilai kesesuaian makanan berdasarkan alergi, pantangan, dan tujuan diet |
 
 ---
 
