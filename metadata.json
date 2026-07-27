@@ -1,0 +1,6 @@
+{
+  "name": "FitLife AI Health Dashboard",
+  "description": "Sistem pemantau kesehatan personal, rencana makan, latihan fisik, dan pelacak hidrasi berbasis analisis biometrik Gemini AI dengan integrasi wearable dan pengingat pintar.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
